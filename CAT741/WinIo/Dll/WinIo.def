@@ -1,0 +1,12 @@
+LIBRARY WINIO
+
+EXPORTS
+
+MapPhysToLin
+UnmapPhysicalMemory
+GetPhysLong
+SetPhysLong
+GetPortVal
+SetPortVal
+InitializeWinIo
+ShutdownWinIo

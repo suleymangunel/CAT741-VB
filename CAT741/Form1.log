@@ -1,0 +1,33 @@
+Line 294: Class ComctlLib.ProgressBar of control ProgressBar1 was not a loaded control class.
+Line 316: Class ComctlLib.Slider of control Slider4 was not a loaded control class.
+Line 437: Class ComctlLib.Slider of control Slider1 was not a loaded control class.
+Line 453: Class ComctlLib.Slider of control Slider2 was not a loaded control class.
+Line 300: The property name _ExtentX in ProgressBar1 is invalid.
+Line 301: The property name _ExtentY in ProgressBar1 is invalid.
+Line 302: The property name _Version in ProgressBar1 is invalid.
+Line 304: The property name Max in ProgressBar1 is invalid.
+Line 323: The property name _ExtentX in Slider4 is invalid.
+Line 324: The property name _ExtentY in Slider4 is invalid.
+Line 325: The property name _Version in Slider4 is invalid.
+Line 326: The property name Orientation in Slider4 is invalid.
+Line 327: The property name Min in Slider4 is invalid.
+Line 328: The property name Max in Slider4 is invalid.
+Line 329: The property name SelStart in Slider4 is invalid.
+Line 330: The property name TickStyle in Slider4 is invalid.
+Line 331: The property name Value in Slider4 is invalid.
+Line 444: The property name _ExtentX in Slider1 is invalid.
+Line 445: The property name _ExtentY in Slider1 is invalid.
+Line 446: The property name _Version in Slider1 is invalid.
+Line 447: The property name Orientation in Slider1 is invalid.
+Line 448: The property name Min in Slider1 is invalid.
+Line 449: The property name Max in Slider1 is invalid.
+Line 450: The property name SelStart in Slider1 is invalid.
+Line 451: The property name Value in Slider1 is invalid.
+Line 460: The property name _ExtentX in Slider2 is invalid.
+Line 461: The property name _ExtentY in Slider2 is invalid.
+Line 462: The property name _Version in Slider2 is invalid.
+Line 463: The property name Orientation in Slider2 is invalid.
+Line 464: The property name Min in Slider2 is invalid.
+Line 465: The property name Max in Slider2 is invalid.
+Line 466: The property name SelStart in Slider2 is invalid.
+Line 467: The property name Value in Slider2 is invalid.
